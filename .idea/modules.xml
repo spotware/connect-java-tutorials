@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lesson 3. Get Market Data/get-market-data.iml" filepath="$PROJECT_DIR$/Lesson 3. Get Market Data/get-market-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 2. Get Trading Data/get-trading-data.iml" filepath="$PROJECT_DIR$/Lesson 2. Get Trading Data/get-trading-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorials.iml" filepath="$PROJECT_DIR$/tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 4. Using Trading API/using-trading-api.iml" filepath="$PROJECT_DIR$/Lesson 4. Using Trading API/using-trading-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 1. Your First App/your-first-app.iml" filepath="$PROJECT_DIR$/Lesson 1. Your First App/your-first-app.iml" />
+    </modules>
+  </component>
+</project>

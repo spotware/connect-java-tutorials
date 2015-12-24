@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.spotware.connect</groupId>
+  <artifactId>connect-java-tutorials</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>Tutorials of using Connect Open API in Java</name>
+  <url>https://connect.spotware.com/documentation/section/tutorials</url>
+  
+  <modules>
+    <module>Lesson 1. Your First App</module>
+    <module>Lesson 2. Get Trading Data</module>
+    <module>Lesson 3. Get Market Data</module>
+    <module>Lesson 4. Using Trading API</module>
+  </modules>
+</project>
