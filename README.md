@@ -6,9 +6,9 @@ A number of lessons to help you start development under [Spotware Open API](http
 * [Lesson 1. Your First App](https://connect.spotware.com/documentation/section/lesson-1-your-first-app)
 * [Lesson 2. Get Trading Data](https://connect.spotware.com/documentation/section/lesson-2-get-trading-data)
 * [Lesson 3. Get Market Data](https://connect.spotware.com/documentation/section/lesson-3-get-market-data)
+* [Lesson 4. Using Trading API](https://connect.spotware.com/documentation/section/lesson-4-using-trading-api)
 
 <!--
-* [Lesson 4. Using Trading API](https://connect.spotware.com/documentation/section/lesson-4-using-trading-api)
 * [Lesson 5. OAuth: Onborading new Traders](https://connect.spotware.com/documentation/section/lesson-5-oauth-oboarding-new-traders)
 -->
 
